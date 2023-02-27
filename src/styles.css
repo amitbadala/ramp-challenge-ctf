@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.flag-info {
+  letter-spacing: 8px;
+}
+
+.flag-info span {
+  background-color: #ddffdd;
+}
